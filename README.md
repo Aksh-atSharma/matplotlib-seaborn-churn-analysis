@@ -1,9 +1,5 @@
 # matplotlib-seaborn-churn-analysis
 
-Awesome work! Since you've completed a **Churn Analysis project** using **Matplotlib**, **Seaborn**, and did significant **data cleaning + EDA**, here's a polished and professional **README.md** you can upload to your GitHub repo:
-
----
-
 ## 📊 Customer Churn Analysis using Python, Matplotlib & Seaborn
 
 Welcome to my **Customer Churn Analysis** project, where I’ve used Python and its visualization libraries to analyze telco customer churn behavior. This project covers **data cleaning, preprocessing, exploratory data analysis (EDA), and rich visual storytelling** using `matplotlib` and `seaborn`.
