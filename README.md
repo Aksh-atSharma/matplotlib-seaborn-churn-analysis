@@ -114,12 +114,4 @@ README.md                              # This file
 > ![image](https://github.com/user-attachments/assets/db63de88-f2ea-4118-af2e-5bef304b8623)
 
 
----
 
-### 🙌 Let's Connect
-
-If you found this project interesting or helpful, feel free to ⭐ the repo or reach out!
-
----
-
-Let me know if you'd like a **PowerPoint version** of the findings or help preparing visuals for LinkedIn or portfolio upload!
